@@ -1,0 +1,54 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+
+body{
+background-color: black;
+}
+
+.titleh1{
+    color: white;
+    text-align: center;
+    margin-top:-120px;
+}
+
+.img-fluid{
+   
+}
+
+.card-group .card{
+    border-color:black;
+}
+
+.card-text{
+    text-align: justify;
+    color:white;
+}
+
+.card-title{
+    color:white;
+    text-align: center;
+}
+
+.text-of-the-video{
+    text-align:;
+    color:white;
+}
+
+.video{
+    position: absolute;
+}
+
+.card{
+    background-color: black;
+    border-color: black;
+}
+
+.card-body{
+    border-color:black;
+    background-color:black;
+    
+}
